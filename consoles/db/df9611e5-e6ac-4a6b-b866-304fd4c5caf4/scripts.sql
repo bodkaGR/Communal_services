@@ -13,3 +13,5 @@ where
     first_name like 'Sa%'
 group by
     first_name;
+
+select * from consumer;
